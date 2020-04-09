@@ -1,0 +1,5 @@
+'global' (demo.js@16:200-207) -> 'fib' (demo.js@4:53-198)
+'fib' (demo.js@12:177-191) -> 'console_log' (Native)
+'fib' (demo.js@12:177-191) -> 'Math_log' (Native)
+'global' (demo.js@2:31-50) -> 'console_log' (Native)
+'global' (demo.js@2:31-50) -> 'Math_log' (Native)
