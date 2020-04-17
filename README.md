@@ -38,21 +38,23 @@ weight = `watch`*2 + `star`*3 + `fork`*4
 
 #### Project Excerpt
 
-| No. | Repository                                                                          | Watch    | Star                    | Fork                    | Weight           |
-| --- | ----------------------------------------------------------------------------------- | -------- | ----------------------- | ----------------------- | ---------------- |
-| 1   | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)           | 8395     | 309944 (1st overall)    | 23919 (4th overall)     | 1042298          |
-| 2   | [twbs/bootstrap](https://github.com/twbs/bootstrap)                                 | 7145     | 140024 (4th overall)    | 68615 (1st overall)     | 708822           |
-| 3   | [vuejs/vue](https://github.com/vuejs/vue)                                           | 6121     | 161779 (2nd overall)    | 24481  (3rd overall)    | 595503           |
-| 4   | [facebook/react](https://github.com/facebook/react)                                 | 6646     | 147007 (3rd overall)    | 28419 (2nd overall)     | 567989           |
-| 5   | [airbnb/javascript](https://github.com/airbnb/javascript)                           | 3556     | 94520 (5th overall)     | 18412 (7th overall)     | 364320           |
-| 6   | ~~[nodejs/node](https://github.com/nodejs/node)~~                                   | ~~2926~~ | ~~69168 (7th overall)~~ | ~~16676 (8th overall)~~ | 280060           |
-| 7   | [mrdoob/three.js](https://github.com/mrdoob/three.js)                               | 2468     | 59767 (9th overall)     | 23099 (5th overall)     | 276633           |
-| 8   | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 2690     | 67804 (8th overall)     | 11211                   | 253636           |
-| 9   | [axios/axios](https://github.com/axios/axios)                                       | 1175     | 71959 (6th overall)     | 6450                    | 244027           |
-| 10  | [jquery/jquery](https://github.com/jquery/jquery)                                   | 3414     | 53169                   | 19231(6th overall)      | 243259           |
-| 11  | [mui-org/material-ui](https://github.com/mui-org/material-ui)                       | 1331     | 56410 (10th overall)    | 15491 (9th overall)     | 233856           |
-| 12  | [atom/atom](https://github.com/atom/atom)                                           | 2493     | 51674                   | 14351 (10th overall)    | 217412           |
-| 13  | [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)   | 1728     | 55837                   | 6203                    | 195779 (>98.59%) |
+| No. | Repository                                                                          | Watch    | Star                    | Fork                    | Weight  |
+| --- | ----------------------------------------------------------------------------------- | -------- | ----------------------- | ----------------------- | ------- |
+| 1   | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)           | 8395     | 309944 (1st overall)    | 23919 (4th overall)     | 1042298 |
+| 2   | [twbs/bootstrap](https://github.com/twbs/bootstrap)                                 | 7145     | 140024 (4th overall)    | 68615 (1st overall)     | 708822  |
+| 3   | [vuejs/vue](https://github.com/vuejs/vue)                                           | 6121     | 161779 (2nd overall)    | 24481  (3rd overall)    | 595503  |
+| 4   | [facebook/react](https://github.com/facebook/react)                                 | 6646     | 147007 (3rd overall)    | 28419 (2nd overall)     | 567989  |
+| 5   | [airbnb/javascript](https://github.com/airbnb/javascript)                           | 3556     | 94520 (5th overall)     | 18412 (7th overall)     | 364320  |
+| 6   | ~~[nodejs/node](https://github.com/nodejs/node)~~                                   | ~~2926~~ | ~~69168 (7th overall)~~ | ~~16676 (8th overall)~~ | 280060  |
+| 7   | [mrdoob/three.js](https://github.com/mrdoob/three.js)                               | 2468     | 59767 (9th overall)     | 23099 (5th overall)     | 276633  |
+| 8   | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 2690     | 67804 (8th overall)     | 11211                   | 253636  |
+| 9   | [axios/axios](https://github.com/axios/axios)                                       | 1175     | 71959 (6th overall)     | 6450                    | 244027  |
+| 10  | [jquery/jquery](https://github.com/jquery/jquery)                                   | 3414     | 53169                   | 19231(6th overall)      | 243259  |
+| 11  | [mui-org/material-ui](https://github.com/mui-org/material-ui)                       | 1331     | 56410 (10th overall)    | 15491 (9th overall)     | 233856  |
+| 12  | [atom/atom](https://github.com/atom/atom)                                           | 2493     | 51674                   | 14351 (10th overall)    | 217412  |
+| 13  | [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)   | 1728     | 55837                   | 6203                    | 195779  |
+| 14  | [webpack/webpack](https://github.com/webpack/webpack)                               | 1626     | 53794                   | 6944                    | 192410  |
+| 15  | [chartjs/Chart.js](https://github.com/chartjs/Chart.js)                             | 1455     | 48155                   | 10287                   | 188523  |
 
 #### Scraped Average (920 repositories)
 
