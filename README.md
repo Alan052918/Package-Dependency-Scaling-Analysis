@@ -6,6 +6,7 @@ SUSTech CSE Junda AI
   - [Experiment design](#experiment-design)
     - [Overview](#overview)
     - [Sampling JavaScript projects](#sampling-javascript-projects)
+      - [Project Excerpt](#project-excerpt)
     - [Making tests](#making-tests)
   - [Collection of packge dependency files of influential ReactJS projects](#collection-of-packge-dependency-files-of-influential-reactjs-projects)
     - [yarn.lock](#yarnlock)
@@ -34,7 +35,7 @@ A total of 913 GitHub repositories was crawled and assigned weight based on thei
 
 weight = `watch`*2 + `star`*3 + `fork`*4
 
-Project Excerpt
+#### Project Excerpt
 
 | No. | Repository                                                                          | Used by | Watch    | Star                  | Fork                    |
 | --- | ----------------------------------------------------------------------------------- | ------- | -------- | --------------------- | ----------------------- |
