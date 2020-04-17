@@ -45,7 +45,7 @@ weight = `watch`*2 + `star`*3 + `fork`*4
 | 3   | [vuejs/vue](https://github.com/vuejs/vue)                                           | 6121     | 161779 (2nd overall)    | 24481  (3rd overall)    | 595503           |
 | 4   | [facebook/react](https://github.com/facebook/react)                                 | 6646     | 147007 (3rd overall)    | 28419 (2nd overall)     | 567989           |
 | 5   | [airbnb/javascript](https://github.com/airbnb/javascript)                           | 3556     | 94520 (5th overall)     | 18412 (7th overall)     | 364320           |
-| 6   | ~~[nodejs/node](https://github.com/nodejs/node)~~                                   | ~~2926~~ | ~~69168 (7th overall)~~ | ~~16676 (8th overall)~~ | 280060           |
+| 6   | ~~[nodejs/node](https://github.com/nodejs/node)~~                                   | ~~2926~~ | ~~69168 (7th overall)~~ | ~~16676 (8th overall)~~ | ~~280060~~       |
 | 7   | [mrdoob/three.js](https://github.com/mrdoob/three.js)                               | 2468     | 59767 (9th overall)     | 23099 (5th overall)     | 276633           |
 | 8   | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 2690     | 67804 (8th overall)     | 11211                   | 253636           |
 | 9   | [axios/axios](https://github.com/axios/axios)                                       | 1175     | 71959 (6th overall)     | 6450                    | 244027           |
