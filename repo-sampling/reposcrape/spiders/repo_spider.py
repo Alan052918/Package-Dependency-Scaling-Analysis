@@ -10,7 +10,8 @@ class RepoSpider(scrapy.Spider):
 
     def parse(self, response):
         for repos in response.css("li.repo-list-item"):
-            relative_url = repos.css(".mt-n1 a.v-align-middle::attr(href)").get()
+            relative_url = repos.css(
+                ".mt-n1 a.v-align-middle::attr(href)").get()
             yield scrapy.Request(response.urljoin(relative_url), callback=self.parse_item)
         next_page = response.css("a.next_page::attr(href)").get()
         if next_page is not None:
@@ -24,4 +25,3 @@ class RepoSpider(scrapy.Spider):
             "star": actions.css("li a.social-count::attr(aria-label)")[1].get(),
             "fork": actions.css("li a.social-count::attr(aria-label)")[2].get()
         }
-
