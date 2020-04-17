@@ -28,11 +28,11 @@ Universe: GitHub public repositories in language `JavaScript`.
 
 A total of 920 GitHub repositories was crawled and assigned weight based on their `watch`, `star`, and `fork` counts. Based on their power of relating people to the project, from passive relating to proactive participating, a weight coefficient is assigned to each.
 
-| Role                                  | Metric  | Description                                   | Weight |
-| ------------------------------------- | ------- | --------------------------------------------- | ------ |
-| Subscribers, passive relating         | `watch` | keep up with news and modifications           | 2      |
-| Collectors, proactive relating        | `star`  | add to one's own collections for quick search | 3      |
-| Colaborators, proactive participating | `fork`  | participate in the development of the project | 4      |
+| Metric  | Role                                  | Description                                   | Weight |
+| ------- | ------------------------------------- | --------------------------------------------- | ------ |
+| `watch` | Subscribers, passive relating         | keep up with news and modifications           | 2      |
+| `star`  | Collectors, proactive relating        | add to one's own collections for quick search | 3      |
+| `fork`  | Colaborators, proactive participating | participate in the development of the project | 4      |
 
 weight = `watch`*2 + `star`*3 + `fork`*4
 
