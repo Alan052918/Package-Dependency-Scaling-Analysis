@@ -56,6 +56,8 @@ weight = `watch`*2 + `star`*3 + `fork`*4
 | 14  | [webpack/webpack](https://github.com/webpack/webpack)                               | 1626     | 53794                   | 6944                    | 192410           |
 | 15  | [chartjs/Chart.js](https://github.com/chartjs/Chart.js)                             | 1455     | 48155                   | 10287                   | 188523 (>98.37%) |
 
+> Nodejs does not have dependencies and package-lock.json file, thus is not applicable to the pruning algorithm.
+
 #### Scraped Average (920 repositories)
 
 - `watch`: 171.46847826086957
