@@ -4,28 +4,36 @@ SUSTech CSE Junda AI
 
 - [Package-Dependency-Scaling-Analysis](#package-dependency-scaling-analysis)
   - [Experiment design](#experiment-design)
-    - [Goal](#goal)
+    - [Overview](#overview)
+    - [Sampling JavaScript projects](#sampling-javascript-projects)
+    - [Making tests](#making-tests)
   - [Updated metrics of sampling influential open-source JavaScript projects](#updated-metrics-of-sampling-influential-open-source-javascript-projects)
-    - [Statistics](#statistics)
   - [Collection of packge dependency files of influential ReactJS projects](#collection-of-packge-dependency-files-of-influential-reactjs-projects)
     - [yarn.lock](#yarnlock)
     - [package-lock.json](#package-lockjson)
 
 ## Experiment design
 
-### Goal
+### Overview
 
-Examine 
+The goal of the experiment is to examine the soundness of our dependency-pruning alogrithm: that projects won't crash or lose functionality after pruning. The workload of the experiment can be distributed into two tasks:
 
-## Updated metrics of sampling influential open-source JavaScript projects
+1. Sample typical JavaScript projects
+2. Make tests to ensure that if the program pass the tests after pruning, then it is not broken
+
+### Sampling JavaScript projects
 
 Universe: GitHub public repositories in language `JavaScript`.
 
-### Statistics
+A total of 913 GitHub repositories was crawled and given weight based on their `watch`, `star`, and `fork` counts.
 
-- Subscribers-`watch`: keep up with news and modifications, passive relating
-- Stars-`star`: add to one's own collections for quick search, proactive relating
-- Forks-`fork`: participate in the development of the project, proactive participating
+| Role                                  | Metric  | Description                                   | Weight |
+| ------------------------------------- | ------- | --------------------------------------------- | ------ |
+| Subscribers, passive relating         | `watch` | keep up with news and modifications           | 2      |
+| Collectors, proactive relating        | `star`  | add to one's own collections for quick search | 3      |
+| Colaborators, proactive participating | `fork`  | participate in the development of the project | 4      |
+
+Project Excerpt
 
 | No. | Repository                                                                          | Used by | Watch    | Star                  | Fork                    |
 | --- | ----------------------------------------------------------------------------------- | ------- | -------- | --------------------- | ----------------------- |
@@ -43,6 +51,10 @@ Universe: GitHub public repositories in language `JavaScript`.
 | 4   | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)           | 21      | 8.4k     | 310k (1st overall)    | 23.9k (4th overall)     |
 | 8   | [mui-org](https://github.com/mui-org/material-ui)                                   | 192k    | 1.3k     | 56.2k (10th overall)  | 15.3k (9th overall)     |
 | 9   | [atom/atom](https://github.com/atom/atom)                                           | -       | 2.5k     | 51.6k                 | 14.3k (10th overall)    |
+
+### Making tests
+
+## Updated metrics of sampling influential open-source JavaScript projects
 
 Summary
 
