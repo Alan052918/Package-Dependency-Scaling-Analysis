@@ -26,7 +26,7 @@ The goal of the experiment is to examine the soundness of our dependency-pruning
 
 Universe: GitHub public repositories in language `JavaScript`.
 
-A total of [920 GitHub repositories](repo-sampling/repos.csv) was crawled and assigned weight based on their `watch`, `star`, and `fork` counts. Based on their power of relating people to the project, from passive relating to proactive participating, a [weight](repo-sampling/weight.csv) coefficient is assigned to each.
+A total of [920 GitHub repositories](repo-sampling/repos.csv) was crawled and assigned weight based on their `watch`, `star`, and `fork` counts. Based on their power of relating people to the project, from passive relating to proactive participating, a weight coefficient is assigned to each. And repository influence [ranking](repo-sampling/weight.csv) is sorted according to weights.
 
 | Metric  | Role                                  | Description                                   | Weight |
 | ------- | ------------------------------------- | --------------------------------------------- | ------ |
