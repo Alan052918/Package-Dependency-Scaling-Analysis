@@ -7,7 +7,6 @@ SUSTech CSE Junda AI
     - [Overview](#overview)
     - [Sampling JavaScript projects](#sampling-javascript-projects)
     - [Making tests](#making-tests)
-  - [Updated metrics of sampling influential open-source JavaScript projects](#updated-metrics-of-sampling-influential-open-source-javascript-projects)
   - [Collection of packge dependency files of influential ReactJS projects](#collection-of-packge-dependency-files-of-influential-reactjs-projects)
     - [yarn.lock](#yarnlock)
     - [package-lock.json](#package-lockjson)
@@ -33,7 +32,7 @@ A total of 913 GitHub repositories was crawled and assigned weight based on thei
 | Collectors, proactive relating        | `star`  | add to one's own collections for quick search | 3      |
 | Colaborators, proactive participating | `fork`  | participate in the development of the project | 4      |
 
-$weight = watch\times2 + star\times3 + fork\times3$
+$$weight = watch\times2 + star\times3 + fork\times3$$
 
 Project Excerpt
 
@@ -54,18 +53,6 @@ Project Excerpt
 | 12  | [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)   | -       | 1.7k     | 55.8k                 | 6.2k                    |
 
 ### Making tests
-
-## Updated metrics of sampling influential open-source JavaScript projects
-
-Summary
-
-| Project types         | Repositories |
-| --------------------- | ------------ |
-| Libraries/frameworks  | 6 (54.5%)    |
-| Style guide           | 1 (9.1%)     |
-| HTTP client           | 1 (9.1%)     |
-| Text editor           | 1 (9.1%)     |
-| Organization codebase | 1 (9.1%)     |
 
 ## Collection of packge dependency files of influential ReactJS projects
 
