@@ -32,7 +32,7 @@ A total of 913 GitHub repositories was crawled and assigned weight based on thei
 | Collectors, proactive relating        | `star`  | add to one's own collections for quick search | 3      |
 | Colaborators, proactive participating | `fork`  | participate in the development of the project | 4      |
 
-$$weight = watch\times2 + star\times3 + fork\times3$$
+weight = `watch`*2 + `star`*3 + `fork`*4
 
 Project Excerpt
 
