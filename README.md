@@ -77,6 +77,12 @@ weight = `watch`*2 + `star`*3 + `fork`\*4
 | optionalDependencies | Negligiable to Yarn install process                                  |
 | bundledDependencies  | Supplements to normal dependencies                                   |
 
+References
+
+- Yarn documentation [Types of dependencies](https://classic.yarnpkg.com/en/docs/dependency-types/)
+- Abhishek Singh's Medium blog [Different types of dependencies in a Node.js application explained](https://medium.com/javascript-in-plain-english/what-the-dependency-types-of-dependencies-in-a-node-js-application-explained-904a5424fbd3)
+- Domenic's in-depth blog about [Peer Dependencies](https://blog.domenic.me/peer-dependencies/)
+
 ## Collection of Packge Dependency Files of Influential ReactJS Projects
 
 ### yarn.lock
