@@ -9,7 +9,8 @@ SUSTech CSE Junda AI
       - [Project Excerpt](#project-excerpt)
       - [Scraped Average (920 repositories)](#scraped-average-920-repositories)
     - [Making tests](#making-tests)
-  - [Collection of packge dependency files of influential ReactJS projects](#collection-of-packge-dependency-files-of-influential-reactjs-projects)
+  - [Dependency Types](#dependency-types)
+  - [Collection of Packge Dependency Files of Influential ReactJS Projects](#collection-of-packge-dependency-files-of-influential-reactjs-projects)
     - [yarn.lock](#yarnlock)
     - [package-lock.json](#package-lockjson)
 
@@ -34,7 +35,7 @@ A total of [920 GitHub repositories](repo-sampling/repos.csv) was crawled and as
 | `star`  | Collectors, proactive relating        | add to one's own collections for quick search | 3      |
 | `fork`  | Colaborators, proactive participating | participate in the development of the project | 4      |
 
-weight = `watch`*2 + `star`*3 + `fork`*4
+weight = `watch`*2 + `star`*3 + `fork`\*4
 
 #### Project Excerpt
 
@@ -42,7 +43,7 @@ weight = `watch`*2 + `star`*3 + `fork`*4
 | --- | ----------------------------------------------------------------------------------- | -------- | ----------------------- | ----------------------- | ---------------- |
 | 1   | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)           | 8395     | 309944 (1st overall)    | 23919 (4th overall)     | 1042298          |
 | 2   | [twbs/bootstrap](https://github.com/twbs/bootstrap)                                 | 7145     | 140024 (4th overall)    | 68615 (1st overall)     | 708822           |
-| 3   | [vuejs/vue](https://github.com/vuejs/vue)                                           | 6121     | 161779 (2nd overall)    | 24481  (3rd overall)    | 595503           |
+| 3   | [vuejs/vue](https://github.com/vuejs/vue)                                           | 6121     | 161779 (2nd overall)    | 24481 (3rd overall)     | 595503           |
 | 4   | [facebook/react](https://github.com/facebook/react)                                 | 6646     | 147007 (3rd overall)    | 28419 (2nd overall)     | 567989           |
 | 5   | [airbnb/javascript](https://github.com/airbnb/javascript)                           | 3556     | 94520 (5th overall)     | 18412 (7th overall)     | 364320           |
 | 6   | ~~[nodejs/node](https://github.com/nodejs/node)~~                                   | ~~2926~~ | ~~69168 (7th overall)~~ | ~~16676 (8th overall)~~ | ~~280060~~       |
@@ -66,9 +67,17 @@ weight = `watch`*2 + `star`*3 + `fork`*4
 
 ### Making tests
 
+## Dependency Types
 
+| Type                 | Summary                                                              |
+| -------------------- | -------------------------------------------------------------------- |
+| dependencies         | Required for the application to run                                  |
+| devDependencies      | Required in the development flow but not for running the application |
+| peerDependencies     |                                                                      |
+| optionalDependencies | Negligiable to Yarn install process                                  |
+| bundledDependencies  | Supplements to normal dependencies                                   |
 
-## Collection of packge dependency files of influential ReactJS projects
+## Collection of Packge Dependency Files of Influential ReactJS Projects
 
 ### yarn.lock
 
