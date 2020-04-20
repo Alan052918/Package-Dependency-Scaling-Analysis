@@ -3,18 +3,18 @@
 SUSTech CSE Junda AI
 
 - [Package-Dependency-Scaling-Analysis](#package-dependency-scaling-analysis)
-  - [Experiment design](#experiment-design)
+  - [Experiment Design](#experiment-design)
     - [Overview](#overview)
     - [Sampling JavaScript projects](#sampling-javascript-projects)
-      - [Project Excerpt](#project-excerpt)
-      - [Scraped Average (920 repositories)](#scraped-average-920-repositories)
+      - [Project excerpt](#project-excerpt)
+      - [Scraped average (920 repositories)](#scraped-average-920-repositories)
     - [Making tests](#making-tests)
   - [Dependency Types](#dependency-types)
   - [Collection of Packge Dependency Files of Influential ReactJS Projects](#collection-of-packge-dependency-files-of-influential-reactjs-projects)
     - [yarn.lock](#yarnlock)
     - [package-lock.json](#package-lockjson)
 
-## Experiment design
+## Experiment Design
 
 ### Overview
 
@@ -37,7 +37,7 @@ A total of [920 GitHub repositories](repo-sampling/repos.csv) was crawled and as
 
 weight = `watch`*2 + `star`*3 + `fork`\*4
 
-#### Project Excerpt
+#### Project excerpt
 
 | No. | Repository                                                                          | Watch    | Star                    | Fork                    | Weight           |
 | --- | ----------------------------------------------------------------------------------- | -------- | ----------------------- | ----------------------- | ---------------- |
@@ -59,7 +59,7 @@ weight = `watch`*2 + `star`*3 + `fork`\*4
 
 > Nodejs does not have dependencies and package-lock.json file, thus is not applicable to the pruning algorithm.
 
-#### Scraped Average (920 repositories)
+#### Scraped average (920 repositories)
 
 - `watch`: 171.46847826086957
 - `star`: 4700.648913043478
