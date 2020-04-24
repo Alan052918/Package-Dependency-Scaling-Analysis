@@ -73,8 +73,8 @@ weight = `watch`*2 + `star`*3 + `fork`\*4
 | -------------------- | -------------------------------------------------------------------- |
 | dependencies         | Required for the application to run                                  |
 | devDependencies      | Required in the development flow but not for running the application |
-| peerDependencies     |                                                                      |
-| optionalDependencies | Negligible to Yarn install process                                  |
+| peerDependencies     | Compatible hosts for plugin packages                                 |
+| optionalDependencies | Negligible to yarn/npm install process                               |
 | bundledDependencies  | Supplements to normal dependencies                                   |
 
 References
