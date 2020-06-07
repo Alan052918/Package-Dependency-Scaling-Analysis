@@ -1,0 +1,1241 @@
+{
+  "data": {
+    "search": {
+      "repositoryCount": 88,
+      "edges": [
+        {
+          "node": {
+            "name": "freeCodeCamp",
+            "watchers": {
+              "totalCount": 8391
+            },
+            "stargazers": {
+              "totalCount": 310057
+            },
+            "forks": {
+              "totalCount": 23181
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "vue",
+            "watchers": {
+              "totalCount": 6129
+            },
+            "stargazers": {
+              "totalCount": 162173
+            },
+            "forks": {
+              "totalCount": 23973
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "react",
+            "watchers": {
+              "totalCount": 6649
+            },
+            "stargazers": {
+              "totalCount": 147251
+            },
+            "forks": {
+              "totalCount": 27329
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "bootstrap",
+            "watchers": {
+              "totalCount": 7153
+            },
+            "stargazers": {
+              "totalCount": 140147
+            },
+            "forks": {
+              "totalCount": 66273
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "javascript",
+            "watchers": {
+              "totalCount": 3557
+            },
+            "stargazers": {
+              "totalCount": 94647
+            },
+            "forks": {
+              "totalCount": 16312
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "d3",
+            "watchers": {
+              "totalCount": 3978
+            },
+            "stargazers": {
+              "totalCount": 91019
+            },
+            "forks": {
+              "totalCount": 21421
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "react-native",
+            "watchers": {
+              "totalCount": 3728
+            },
+            "stargazers": {
+              "totalCount": 86494
+            },
+            "forks": {
+              "totalCount": 18528
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "create-react-app",
+            "watchers": {
+              "totalCount": 1853
+            },
+            "stargazers": {
+              "totalCount": 77892
+            },
+            "forks": {
+              "totalCount": 17939
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "axios",
+            "watchers": {
+              "totalCount": 1178
+            },
+            "stargazers": {
+              "totalCount": 72173
+            },
+            "forks": {
+              "totalCount": 6306
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "node",
+            "watchers": {
+              "totalCount": 2928
+            },
+            "stargazers": {
+              "totalCount": 69279
+            },
+            "forks": {
+              "totalCount": 16026
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "javascript-algorithms",
+            "watchers": {
+              "totalCount": 2712
+            },
+            "stargazers": {
+              "totalCount": 68499
+            },
+            "forks": {
+              "totalCount": 10875
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Font-Awesome",
+            "watchers": {
+              "totalCount": 1409
+            },
+            "stargazers": {
+              "totalCount": 62609
+            },
+            "forks": {
+              "totalCount": 10213
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "puppeteer",
+            "watchers": {
+              "totalCount": 1242
+            },
+            "stargazers": {
+              "totalCount": 60475
+            },
+            "forks": {
+              "totalCount": 5994
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "three.js",
+            "watchers": {
+              "totalCount": 2468
+            },
+            "stargazers": {
+              "totalCount": 59871
+            },
+            "forks": {
+              "totalCount": 22562
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "angular.js",
+            "watchers": {
+              "totalCount": 4069
+            },
+            "stargazers": {
+              "totalCount": 59568
+            },
+            "forks": {
+              "totalCount": 28144
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "material-ui",
+            "watchers": {
+              "totalCount": 1331
+            },
+            "stargazers": {
+              "totalCount": 56541
+            },
+            "forks": {
+              "totalCount": 15283
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "30-seconds-of-code",
+            "watchers": {
+              "totalCount": 1731
+            },
+            "stargazers": {
+              "totalCount": 55925
+            },
+            "forks": {
+              "totalCount": 5810
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "webpack",
+            "watchers": {
+              "totalCount": 1627
+            },
+            "stargazers": {
+              "totalCount": 53823
+            },
+            "forks": {
+              "totalCount": 6665
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "jquery",
+            "watchers": {
+              "totalCount": 3420
+            },
+            "stargazers": {
+              "totalCount": 53189
+            },
+            "forks": {
+              "totalCount": 18821
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "atom",
+            "watchers": {
+              "totalCount": 2495
+            },
+            "stargazers": {
+              "totalCount": 51698
+            },
+            "forks": {
+              "totalCount": 13793
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "reveal.js",
+            "watchers": {
+              "totalCount": 1571
+            },
+            "stargazers": {
+              "totalCount": 51172
+            },
+            "forks": {
+              "totalCount": 13895
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "socket.io",
+            "watchers": {
+              "totalCount": 1666
+            },
+            "stargazers": {
+              "totalCount": 49327
+            },
+            "forks": {
+              "totalCount": 8700
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "express",
+            "watchers": {
+              "totalCount": 1824
+            },
+            "stargazers": {
+              "totalCount": 48222
+            },
+            "forks": {
+              "totalCount": 7844
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Chart.js",
+            "watchers": {
+              "totalCount": 1456
+            },
+            "stargazers": {
+              "totalCount": 48216
+            },
+            "forks": {
+              "totalCount": 9830
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Semantic-UI",
+            "watchers": {
+              "totalCount": 1429
+            },
+            "stargazers": {
+              "totalCount": 47686
+            },
+            "forks": {
+              "totalCount": 4836
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "next.js",
+            "watchers": {
+              "totalCount": 874
+            },
+            "stargazers": {
+              "totalCount": 47110
+            },
+            "forks": {
+              "totalCount": 6757
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "json-server",
+            "watchers": {
+              "totalCount": 983
+            },
+            "stargazers": {
+              "totalCount": 46782
+            },
+            "forks": {
+              "totalCount": 4192
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "markdown-here",
+            "watchers": {
+              "totalCount": 1063
+            },
+            "stargazers": {
+              "totalCount": 45596
+            },
+            "forks": {
+              "totalCount": 8009
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "html5-boilerplate",
+            "watchers": {
+              "totalCount": 2610
+            },
+            "stargazers": {
+              "totalCount": 44624
+            },
+            "forks": {
+              "totalCount": 10287
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "lodash",
+            "watchers": {
+              "totalCount": 866
+            },
+            "stargazers": {
+              "totalCount": 44381
+            },
+            "forks": {
+              "totalCount": 4680
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "resume.github.com",
+            "watchers": {
+              "totalCount": 338
+            },
+            "stargazers": {
+              "totalCount": 44171
+            },
+            "forks": {
+              "totalCount": 1063
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "moment",
+            "watchers": {
+              "totalCount": 945
+            },
+            "stargazers": {
+              "totalCount": 43769
+            },
+            "forks": {
+              "totalCount": 6425
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "awesome-selfhosted",
+            "watchers": {
+              "totalCount": 1568
+            },
+            "stargazers": {
+              "totalCount": 43697
+            },
+            "forks": {
+              "totalCount": 3316
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "gatsby",
+            "watchers": {
+              "totalCount": 962
+            },
+            "stargazers": {
+              "totalCount": 43672
+            },
+            "forks": {
+              "totalCount": 7631
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "nodebestpractices",
+            "watchers": {
+              "totalCount": 1330
+            },
+            "stargazers": {
+              "totalCount": 43011
+            },
+            "forks": {
+              "totalCount": 3712
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "meteor",
+            "watchers": {
+              "totalCount": 1756
+            },
+            "stargazers": {
+              "totalCount": 41729
+            },
+            "forks": {
+              "totalCount": 4876
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "tech-interview-handbook",
+            "watchers": {
+              "totalCount": 1621
+            },
+            "stargazers": {
+              "totalCount": 41704
+            },
+            "forks": {
+              "totalCount": 5322
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "incubator-echarts",
+            "watchers": {
+              "totalCount": 2013
+            },
+            "stargazers": {
+              "totalCount": 40597
+            },
+            "forks": {
+              "totalCount": 13391
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "react-router",
+            "watchers": {
+              "totalCount": 895
+            },
+            "stargazers": {
+              "totalCount": 40144
+            },
+            "forks": {
+              "totalCount": 7916
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "realworld",
+            "watchers": {
+              "totalCount": 1262
+            },
+            "stargazers": {
+              "totalCount": 39623
+            },
+            "forks": {
+              "totalCount": 3012
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "yarn",
+            "watchers": {
+              "totalCount": 609
+            },
+            "stargazers": {
+              "totalCount": 38319
+            },
+            "forks": {
+              "totalCount": 2328
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "hacker-scripts",
+            "watchers": {
+              "totalCount": 2174
+            },
+            "stargazers": {
+              "totalCount": 37744
+            },
+            "forks": {
+              "totalCount": 6001
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "materialize",
+            "watchers": {
+              "totalCount": 1102
+            },
+            "stargazers": {
+              "totalCount": 37386
+            },
+            "forks": {
+              "totalCount": 4709
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "awesome-mac",
+            "watchers": {
+              "totalCount": 1381
+            },
+            "stargazers": {
+              "totalCount": 37302
+            },
+            "forks": {
+              "totalCount": 4084
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "nw.js",
+            "watchers": {
+              "totalCount": 1736
+            },
+            "stargazers": {
+              "totalCount": 36709
+            },
+            "forks": {
+              "totalCount": 3736
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "babel",
+            "watchers": {
+              "totalCount": 876
+            },
+            "stargazers": {
+              "totalCount": 36341
+            },
+            "forks": {
+              "totalCount": 4057
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "prettier",
+            "watchers": {
+              "totalCount": 418
+            },
+            "stargazers": {
+              "totalCount": 36177
+            },
+            "forks": {
+              "totalCount": 2149
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "impress.js",
+            "watchers": {
+              "totalCount": 1307
+            },
+            "stargazers": {
+              "totalCount": 35621
+            },
+            "forks": {
+              "totalCount": 6632
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "parcel",
+            "watchers": {
+              "totalCount": 476
+            },
+            "stargazers": {
+              "totalCount": 35420
+            },
+            "forks": {
+              "totalCount": 1603
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "serverless",
+            "watchers": {
+              "totalCount": 1013
+            },
+            "stargazers": {
+              "totalCount": 35378
+            },
+            "forks": {
+              "totalCount": 3878
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "clean-code-javascript",
+            "watchers": {
+              "totalCount": 1168
+            },
+            "stargazers": {
+              "totalCount": 35180
+            },
+            "forks": {
+              "totalCount": 3527
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "anime",
+            "watchers": {
+              "totalCount": 713
+            },
+            "stargazers": {
+              "totalCount": 35027
+            },
+            "forks": {
+              "totalCount": 2633
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "AdminLTE",
+            "watchers": {
+              "totalCount": 2079
+            },
+            "stargazers": {
+              "totalCount": 34099
+            },
+            "forks": {
+              "totalCount": 13814
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Ghost",
+            "watchers": {
+              "totalCount": 1119
+            },
+            "stargazers": {
+              "totalCount": 33358
+            },
+            "forks": {
+              "totalCount": 6941
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "svelte",
+            "watchers": {
+              "totalCount": 627
+            },
+            "stargazers": {
+              "totalCount": 32774
+            },
+            "forks": {
+              "totalCount": 1455
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "pm2",
+            "watchers": {
+              "totalCount": 699
+            },
+            "stargazers": {
+              "totalCount": 32148
+            },
+            "forks": {
+              "totalCount": 2069
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "gulp",
+            "watchers": {
+              "totalCount": 1141
+            },
+            "stargazers": {
+              "totalCount": 31710
+            },
+            "forks": {
+              "totalCount": 4239
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "33-js-concepts",
+            "watchers": {
+              "totalCount": 1042
+            },
+            "stargazers": {
+              "totalCount": 31556
+            },
+            "forks": {
+              "totalCount": 3076
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "brackets",
+            "watchers": {
+              "totalCount": 1586
+            },
+            "stargazers": {
+              "totalCount": 31225
+            },
+            "forks": {
+              "totalCount": 6069
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "leetcode",
+            "watchers": {
+              "totalCount": 1125
+            },
+            "stargazers": {
+              "totalCount": 30426
+            },
+            "forks": {
+              "totalCount": 5558
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "pdf.js",
+            "watchers": {
+              "totalCount": 1038
+            },
+            "stargazers": {
+              "totalCount": 30307
+            },
+            "forks": {
+              "totalCount": 6759
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "hexo",
+            "watchers": {
+              "totalCount": 861
+            },
+            "stargazers": {
+              "totalCount": 30172
+            },
+            "forks": {
+              "totalCount": 3789
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "hackathon-starter",
+            "watchers": {
+              "totalCount": 833
+            },
+            "stargazers": {
+              "totalCount": 29914
+            },
+            "forks": {
+              "totalCount": 5482
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "fullPage.js",
+            "watchers": {
+              "totalCount": 906
+            },
+            "stargazers": {
+              "totalCount": 29831
+            },
+            "forks": {
+              "totalCount": 6814
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "slate",
+            "watchers": {
+              "totalCount": 517
+            },
+            "stargazers": {
+              "totalCount": 29572
+            },
+            "forks": {
+              "totalCount": 17428
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "immutable-js",
+            "watchers": {
+              "totalCount": 579
+            },
+            "stargazers": {
+              "totalCount": 29531
+            },
+            "forks": {
+              "totalCount": 1631
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "mermaid",
+            "watchers": {
+              "totalCount": 548
+            },
+            "stargazers": {
+              "totalCount": 29466
+            },
+            "forks": {
+              "totalCount": 1820
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "algorithm-visualizer",
+            "watchers": {
+              "totalCount": 1078
+            },
+            "stargazers": {
+              "totalCount": 29013
+            },
+            "forks": {
+              "totalCount": 4568
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "koa",
+            "watchers": {
+              "totalCount": 884
+            },
+            "stargazers": {
+              "totalCount": 28945
+            },
+            "forks": {
+              "totalCount": 2665
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "styled-components",
+            "watchers": {
+              "totalCount": 376
+            },
+            "stargazers": {
+              "totalCount": 28934
+            },
+            "forks": {
+              "totalCount": 1652
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "chinese-poetry",
+            "watchers": {
+              "totalCount": 995
+            },
+            "stargazers": {
+              "totalCount": 28496
+            },
+            "forks": {
+              "totalCount": 5378
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "clipboard.js",
+            "watchers": {
+              "totalCount": 444
+            },
+            "stargazers": {
+              "totalCount": 28399
+            },
+            "forks": {
+              "totalCount": 3418
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "video.js",
+            "watchers": {
+              "totalCount": 1296
+            },
+            "stargazers": {
+              "totalCount": 27995
+            },
+            "forks": {
+              "totalCount": 6163
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "backbone",
+            "watchers": {
+              "totalCount": 1421
+            },
+            "stargazers": {
+              "totalCount": 27643
+            },
+            "forks": {
+              "totalCount": 5371
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Leaflet",
+            "watchers": {
+              "totalCount": 958
+            },
+            "stargazers": {
+              "totalCount": 27624
+            },
+            "forks": {
+              "totalCount": 4275
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "phaser",
+            "watchers": {
+              "totalCount": 1281
+            },
+            "stargazers": {
+              "totalCount": 27061
+            },
+            "forks": {
+              "totalCount": 6078
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "awesome-react-native",
+            "watchers": {
+              "totalCount": 1123
+            },
+            "stargazers": {
+              "totalCount": 26969
+            },
+            "forks": {
+              "totalCount": 3179
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "dayjs",
+            "watchers": {
+              "totalCount": 276
+            },
+            "stargazers": {
+              "totalCount": 26825
+            },
+            "forks": {
+              "totalCount": 1282
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "nuxt.js",
+            "watchers": {
+              "totalCount": 618
+            },
+            "stargazers": {
+              "totalCount": 26586
+            },
+            "forks": {
+              "totalCount": 2247
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "todomvc",
+            "watchers": {
+              "totalCount": 1197
+            },
+            "stargazers": {
+              "totalCount": 26498
+            },
+            "forks": {
+              "totalCount": 12833
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "async",
+            "watchers": {
+              "totalCount": 721
+            },
+            "stargazers": {
+              "totalCount": 26471
+            },
+            "forks": {
+              "totalCount": 2274
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "Rocket.Chat",
+            "watchers": {
+              "totalCount": 947
+            },
+            "stargazers": {
+              "totalCount": 26337
+            },
+            "forks": {
+              "totalCount": 5559
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "quill",
+            "watchers": {
+              "totalCount": 485
+            },
+            "stargazers": {
+              "totalCount": 26150
+            },
+            "forks": {
+              "totalCount": 2003
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "preact",
+            "watchers": {
+              "totalCount": 440
+            },
+            "stargazers": {
+              "totalCount": 25992
+            },
+            "forks": {
+              "totalCount": 1333
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "slick",
+            "watchers": {
+              "totalCount": 617
+            },
+            "stargazers": {
+              "totalCount": 25392
+            },
+            "forks": {
+              "totalCount": 5081
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "underscore",
+            "watchers": {
+              "totalCount": 921
+            },
+            "stargazers": {
+              "totalCount": 25284
+            },
+            "forks": {
+              "totalCount": 5208
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "react-boilerplate",
+            "watchers": {
+              "totalCount": 574
+            },
+            "stargazers": {
+              "totalCount": 25060
+            },
+            "forks": {
+              "totalCount": 4903
+            }
+          }
+        },
+        {
+          "node": {
+            "name": "vue-cli",
+            "watchers": {
+              "totalCount": 656
+            },
+            "stargazers": {
+              "totalCount": 25010
+            },
+            "forks": {
+              "totalCount": 4525
+            }
+          }
+        }
+      ]
+    }
+  }
+}
