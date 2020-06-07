@@ -6869,7 +6869,7 @@
 ]
 /Users/aijunda/GitHub/thal/node_modules/yauzl/package.json [ 'yauzl@2.10.0' ]
 
-
+Complete real dependency list:
 [
   'puppeteer@3.0.2',
   'ms@2.0.0',

@@ -32,5 +32,5 @@ function traverse(currentDir) {
 }
 
 traverse('/Users/aijunda/GitHub/thal');
-console.log('\n');
+console.log('\nComplete real dependency list:');
 console.log(depList);
