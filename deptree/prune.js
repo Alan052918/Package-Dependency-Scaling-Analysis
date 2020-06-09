@@ -25,7 +25,7 @@ const deleteFolderRecursive = (path) => {
 }
 
 const traverse = (currentDir) => {
-  console.log(colors.magenta.bold('\nNew directory'), currentDir);
+  // console.log(colors.magenta.bold('\nNew directory'), currentDir);
   const dirSegments = currentDir.split(Path.sep);
   fs.readdir(currentDir, { withFileTypes: true }, function (err, dirents) {
     if (err) throw err;
@@ -38,19 +38,19 @@ const traverse = (currentDir) => {
       let entPath = currentDir.concat(Path.sep, dirent.name);
 
       if (isUnixHiddenPath(entPath)) {
-        console.log(entPath, "Hidden path".yellow.bold);
+        // console.log(entPath, "Hidden path".yellow.bold);
         continue;
       }
 
       if (isCollectionFolder(entPath)) {
-        console.log(entPath, "Collection path".yellow.bold);
+        // console.log(entPath, "Collection path".yellow.bold);
         continue;
       }
 
       // check for redundant package
       if (dirSegments[dirSegments.length - 1] == 'node_modules' && !realDeps.includes('\"'.concat(entPath, '\"'))) {
         console.log(entPath.red, colors.bgBlue.red.bold('Redundant package'));
-        deleteFolderRecursive(entPath);
+        // deleteFolderRecursive(entPath);
         continue;
       }
 
@@ -63,6 +63,6 @@ const traverse = (currentDir) => {
   });
 }
 
-const txt = fs.readFileSync('./delete-list.txt', 'utf-8');
+const txt = fs.readFileSync('./real-dependencies/vue-realdeps.txt', 'utf-8');
 const realDeps = txt.split(',\n');
-traverse('/Users/aijunda/Documents/CS319\ Innovative\ Experiments/Package-Dependency-Scaling-Analysis/axios/node_modules');
+traverse('/Users/aijunda/Documents/CS319\ Innovative\ Experiments/Package-Dependency-Scaling-Analysis/vue/node_modules');

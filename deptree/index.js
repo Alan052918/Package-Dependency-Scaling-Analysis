@@ -37,8 +37,8 @@ function traverse(currentDir) {
   }
 }
 
-traverse('/Users/aijunda/Documents/CS319\ Innovative\ Experiments/Package-Dependency-Scaling-Analysis/axios');
+traverse('/Users/aijunda/Documents/CS319\ Innovative\ Experiments/Package-Dependency-Scaling-Analysis/vue');
 console.log('\n');
 console.log(depList);
 console.log('writing result to file');
-fs.writeFileSync('./delete-list.txt', JSON.stringify(Array.from(depList)));
+fs.writeFileSync('./realdep-list.txt', JSON.stringify(Array.from(depList)));
