@@ -29,7 +29,6 @@ function traverse(currentDir) {
     if (dirent.isDirectory() === true) {
       console.log(entName, colors.bgBlue.yellow.bold('is DIRECTORY'));
       dirPool.add(currentDir.concat(path.sep, dirent.name));
-      // traverse(currentDir.concat(path.sep, dirent.name));
     }
   }
   for (dirItem of dirPool) {
@@ -37,7 +36,7 @@ function traverse(currentDir) {
   }
 }
 
-traverse('/Users/aijunda/Documents/CS319\ Innovative\ Experiments/Package-Dependency-Scaling-Analysis/vue');
+traverse('/Users/aijunda/Projects/CS319-Package-Dependency-Analysis/bootstrap-master');
 console.log('\n');
 console.log(depList);
 console.log('writing result to file');

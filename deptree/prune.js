@@ -54,7 +54,7 @@ const traverse = (currentDir) => {
         continue;
       }
 
-      console.log(entPath.green);
+      // console.log(entPath.green);
       dirPool.add(entPath);
     }
     for (dir of dirPool) {
@@ -63,6 +63,6 @@ const traverse = (currentDir) => {
   });
 }
 
-const txt = fs.readFileSync('./real-dependencies/vue-realdeps.txt', 'utf-8');
+const txt = fs.readFileSync('./real-dependencies/bootstrap-realdeps.txt', 'utf-8');
 const realDeps = txt.split(',\n');
-traverse('/Users/aijunda/Documents/CS319\ Innovative\ Experiments/Package-Dependency-Scaling-Analysis/vue/node_modules');
+traverse('/Users/aijunda/Projects/CS319-Package-Dependency-Analysis/bootstrap-master/node_modules');
